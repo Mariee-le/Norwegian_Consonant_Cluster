@@ -2,6 +2,7 @@
 import nltk, re
 
 from nltk.corpus import udhr
+nltk.download('udhr')
 from nltk.corpus import words
 
 
