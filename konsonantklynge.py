@@ -1,5 +1,6 @@
-
 # import og last ned korpus
+import nltk, re
+
 from nltk.corpus import udhr
 from nltk.corpus import words
 
