@@ -1,6 +1,3 @@
-# requirements
-import nltk, re
-
 
 # import og last ned korpus
 from nltk.corpus import udhr
